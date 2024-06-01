@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalattari" alt="bilalattari" /></a> </p>
 
+<img align="right" alt="Coding GIF" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 - 🔭 I’m currently working on **QRInsight**
 
 - 🌱 I’m currently learning **Flutter , AI**
