@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bilal-raza-0082a8186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal-raza-0082a8186" height="30" width="40" /></a>
-<a href="https://fb.com/bilalraza1235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bilalraza1235" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@bilalraza_attari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bilalraza_attari" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/@codeaurbilal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bilalraza_attari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
